@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		12306B9A28C18678005CD4DE /* GCDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12306B9928C18678005CD4DE /* GCDViewController.swift */; };
 		126B39EF28BD94C7005F6044 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126B39EE28BD94C7005F6044 /* AppDelegate.swift */; };
 		126B39F128BD94C7005F6044 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126B39F028BD94C7005F6044 /* SceneDelegate.swift */; };
 		126B39F328BD94C7005F6044 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126B39F228BD94C7005F6044 /* ViewController.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		12306B9928C18678005CD4DE /* GCDViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GCDViewController.swift; sourceTree = "<group>"; };
 		126B39EB28BD94C7005F6044 /* SeSACWeek9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeSACWeek9.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		126B39EE28BD94C7005F6044 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		126B39F028BD94C7005F6044 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				126B39F028BD94C7005F6044 /* SceneDelegate.swift */,
 				126B39F228BD94C7005F6044 /* ViewController.swift */,
 				126B39F428BD94C7005F6044 /* Main.storyboard */,
+				12306B9928C18678005CD4DE /* GCDViewController.swift */,
 				128D004D28C0484900541EA9 /* LoginViewController.swift */,
 				128D004F28C049FB00541EA9 /* LoginViewModel.swift */,
 				126B39F728BD94C9005F6044 /* Assets.xcassets */,
@@ -205,6 +208,7 @@
 				126B3A0428BD9500005F6044 /* LottoAPIManager.swift in Sources */,
 				128D004C28C037F300541EA9 /* Sample.swift in Sources */,
 				126B3A0728BDA733005F6044 /* PersonAPIManager.swift in Sources */,
+				12306B9A28C18678005CD4DE /* GCDViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
